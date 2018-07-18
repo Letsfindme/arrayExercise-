@@ -1,0 +1,2 @@
+# arrayExercise-
+some array exercises 
